@@ -3,7 +3,7 @@ public class tempjava {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("tempjava");
+System.out.println("############S");
 	}
 
 }
